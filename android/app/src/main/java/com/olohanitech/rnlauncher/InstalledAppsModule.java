@@ -1,5 +1,6 @@
 package com.olohanitech.rnlauncher;
 
+import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.ApplicationInfo;
 
